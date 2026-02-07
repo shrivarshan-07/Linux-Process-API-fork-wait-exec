@@ -36,8 +36,10 @@ Test the C Program for the desired output.
 
 
 
+## OUTPUT
+<img width="1031" height="78" alt="image" src="https://github.com/user-attachments/assets/1d639d05-9625-43ba-bdbc-a2d9ceaeb1cb" />
 
-##OUTPUT
+
 
 
 
@@ -71,11 +73,10 @@ Test the C Program for the desired output.
 
 
 
+## OUTPUT
 
 
-##OUTPUT
-
-
+<img width="1031" height="237" alt="image" src="https://github.com/user-attachments/assets/31512471-4cdd-49e8-a6c2-1e4ca27cc10b" />
 
 
 
